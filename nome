@@ -1,0 +1,8 @@
+function mostrarMensagem() {
+    alert(
+        "🌾 AgroClima\n\n" +
+        "Projeto desenvolvido por João Gabriel Geremias.\n\n" +
+        "Nossa proposta é ajudar o produtor rural " +
+        "a tomar decisões melhores usando informações climáticas."
+    );
+}
